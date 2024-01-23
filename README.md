@@ -17,8 +17,11 @@ This repo provides the code of [Neuromorphic Imaging and Classification with Gra
 2. N-MNIST:     https://www.garrickorchard.com/datasets/n-mnist
 3. ASL-DVS:     https://github.com/PIX2NVS/NVS2Graph
 4. KTH Dataset: https://www.csc.kth.se/cvap/actions/
-
-To simulate the neuromorphic version SN-KTH, please refer to [v2e](https://github.com/SensorsINI/v2e) or [PIX2NVS](https://github.com/PIX2NVS/PIX2NVS):
+5. SN-KTH:      https://github.com/pz-even/ni-denoising/tree/main
 
 ![SN-KTH](./imgs/snkth.png)
+
+To simulate your own SN-KTH, please refer to [v2e](https://github.com/SensorsINI/v2e) or [PIX2NVS](https://github.com/PIX2NVS/PIX2NVS).
+
+
 
