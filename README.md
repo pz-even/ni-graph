@@ -1,5 +1,5 @@
 # Overview
-This repo provides the code of [Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)
+This repo provides the code of [Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010).
 ```
 @article{zhang2024neuromorphic,
   title    =  {Neuromorphic Imaging and Classification with Graph Learning},
@@ -7,8 +7,9 @@ This repo provides the code of [Neuromorphic Imaging and Classification with Gra
   journal  =  {Neurocomputing},
   volume   =  {565},
   pages    =  {127010(1--9)},
+  month    =  {January},
   year     =  {2024},
-  doi      =  {https://doi.org/10.1016/j.neucom.2023.127010},
+  doi      =  {10.1016/j.neucom.2023.127010},
 }
 ```
 ## Dataset
