@@ -1,8 +1,8 @@
-# Neuromorphic Imaging and Classification with Graph Learning
-This repo provides the code of
+# Overview
+This repo provides the code of [Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010)
 ```
 @article{zhang2024neuromorphic,
-  title    =  {Neuromorphic imaging and classification with graph learning},
+  title    =  {Neuromorphic Imaging and Classification with Graph Learning},
   author   =  {Pei Zhang and Chutian Wang and Edmund Y. Lam},
   journal  =  {Neurocomputing},
   volume   =  {565},
