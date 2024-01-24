@@ -32,7 +32,7 @@ torch_geometric
 numpy
 scipy
 dv
-PSEELoader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
+psee_loader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
 ```
 ### Usage
 - [x] We currently offer the core code only. Hopefully it already helps.
