@@ -24,5 +24,18 @@ Download our [SN-KTH](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u300
 
 To simulate your own SN-KTH, please refer to [v2e](https://github.com/SensorsINI/v2e) or [PIX2NVS](https://github.com/PIX2NVS/PIX2NVS).
 
+## Implementation
+### Dependencies
+```
+torch
+torch_geometric
+numpy
+scipy
+dv
+```
+### Usage
+:sweat_smile: At present, we offer the core code only.
+
+:wink: Rest assured, we are diligently working on organizing and preparing additional code for public release in the near future. Stay tuned for updates!
 
 
