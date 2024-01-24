@@ -35,8 +35,8 @@ dv
 PSEELoader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
 ```
 ### Usage
-- [x] We currently offer the core code only. 
-- [x] We are diligently preparing more code for public release in the near future. Stay tuned for updates!
+- [x] We currently offer the core code only. Hopefully it already helps.
+- [x] We are diligently preparing training & testing code for release in the near future. Stay tuned for updates!
 
 ## Acknowledgement
 Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for code reference.
