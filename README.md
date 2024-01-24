@@ -32,10 +32,12 @@ torch_geometric
 numpy
 scipy
 dv
+PSEELoader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
 ```
 ### Usage
-:sweat_smile: At present, we offer the core code only.
+- [x] We currently offer the core code only. 
+- [x] We are diligently preparing more code for public release in the near future. Stay tuned for updates!
 
-:wink: Rest assured, we are diligently working on organizing and preparing additional code for public release in the near future. Stay tuned for updates!
-
+## Acknowledgement
+Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for code reference.
 
