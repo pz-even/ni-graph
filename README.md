@@ -36,7 +36,7 @@ psee_loader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbo
 ```
 ### Usage
 - [x] We currently offer the core code only. Hopefully it already helps.
-- [x] We are diligently preparing training & testing code for release in the near future. Stay tuned for updates!
+- [x] Training & Testing code will be released in the near future. Stay tuned for updates!
 
 ## Acknowledgement
 Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for code reference.
