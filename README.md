@@ -19,7 +19,7 @@ Find more Neuromorphic Imaging achievements from our group: [HKU Imaging Systems
 3. ASL-DVS:     https://github.com/PIX2NVS/NVS2Graph
 4. KTH Dataset: https://www.csc.kth.se/cvap/actions/
 
-Download our [SN-KTH](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3008016_connect_hku_hk/EQ1s3MCBCFhMiE7Vvi7786kBdZ1RBr-kceZL3zQPUktxsA) (password: <ins>zhang2024neuromorphic</ins>):
+Download our [SN-KTH](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3008016_connect_hku_hk/EQ1s3MCBCFhMiE7Vvi7786kBdZ1RBr-kceZL3zQPUktxsA) (password: `zhang2024neuromorphic`):
 
 ![SN-KTH](./imgs/snkth.png)
 
