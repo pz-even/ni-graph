@@ -1,7 +1,7 @@
 # Overview
 This repo provides the code of [Neuromorphic Imaging and Classification with Graph Learning](https://doi.org/10.1016/j.neucom.2023.127010).
 ```
-@article{zhang2024neuromorphic,
+@article{zhang2024neurocomputing,
   title    =  {Neuromorphic Imaging and Classification with Graph Learning},
   author   =  {Pei Zhang and Chutian Wang and Edmund Y. Lam},
   journal  =  {Neurocomputing},
@@ -12,7 +12,7 @@ This repo provides the code of [Neuromorphic Imaging and Classification with Gra
   doi      =  {10.1016/j.neucom.2023.127010},
 }
 ```
-Find more Neuromorphic Imaging achievements from our group: [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
+More neuromorphic imaging projects in [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
 ## Dataset
 1. N-CARS:      https://www.prophesee.ai/2018/03/13/dataset-n-cars/
 2. N-MNIST:     https://www.garrickorchard.com/datasets/n-mnist
