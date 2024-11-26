@@ -18,7 +18,7 @@ This repo provides the code of [Neuromorphic Imaging and Classification with Gra
 3. ASL-DVS:     https://github.com/PIX2NVS/NVS2Graph
 4. KTH Dataset: https://www.csc.kth.se/cvap/actions/
 
-Download our [SN-KTH](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3008016_connect_hku_hk/EQ1s3MCBCFhMiE7Vvi7786kBdZ1RBr-kceZL3zQPUktxsA) (password: `zhang2024neuromorphic`):
+Download our [SN-KTH](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3008016_connect_hku_hk/EQ1s3MCBCFhMiE7Vvi7786kBdZ1RBr-kceZL3zQPUktxsA) (password: `sn-kth`):
 
 ![SN-KTH](./imgs/snkth.png)
 
@@ -35,8 +35,8 @@ dv
 psee_loader (https://github.com/prophesee-ai/prophesee-automotive-dataset-toolbox/tree/master)
 ```
 ### Usage
-- [x] We currently offer the core code only. Hopefully it already helps.
-- [x] Training & Testing code will be released in the near future. Stay tuned for updates!
+- [x] We only prepare the core code for now. Hopefully it already helps.
+- [x] Train & Test code will be released in the near future. Stay tuned for updates!
 
 ## Acknowledgement
 Thank [NVS2Graph](https://github.com/PIX2NVS/NVS2Graph) for code reference.
