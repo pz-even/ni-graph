@@ -18,7 +18,7 @@ This repo provides the code of [Neuromorphic Imaging and Classification with Gra
 3. ASL-DVS:     https://github.com/PIX2NVS/NVS2Graph
 4. KTH Dataset: https://www.csc.kth.se/cvap/actions/
 
-Download our [SN-KTH](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3008016_connect_hku_hk/EqjkaexoM1xLjpvdjRghhpoBBHvT7RXG2HXygRKKso3zPg):
+Download our [SN-KTH](https://bora.teracloud.jp/share/1222c9bfe85f17d9):
 
 ![SN-KTH](./imgs/snkth.png)
 
